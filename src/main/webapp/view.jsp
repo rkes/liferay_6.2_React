@@ -17,6 +17,6 @@
 <%@ taglib uri="http://java.sun.com/portlet_2_0" prefix="portlet" %>
 
 <portlet:defineObjects />
-<script src="/js/app-bundle.js" type="text/javascript"></script>
+
 <p>Hello World testing in Lifery</p>
 <div id="reactId"></div>
