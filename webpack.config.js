@@ -7,7 +7,7 @@ const PATHS = {
 };
 
 module.exports = {
-    entry: './src/main/webapp/js/main.jsx',
+    entry: './src/main/webapp/js/main.js',
 
     output: {
         path: PATHS.build,
